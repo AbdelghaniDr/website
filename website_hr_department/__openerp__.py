@@ -26,10 +26,11 @@
     'summary': """
         Display the structure of your departments and their members.
         """,
-    'author': "ACSONE SA/NV,Odoo Community Association (OCA)",
-    'website': "http://acsone.eu",
+    'author': "ACSONE SA/NV,Odoo Community Association (OCA)\
+              Serpent Consulting Services Pvt. Ltd.",
+    'website': "http://acsone.eu,serpentcs.com",
     'category': 'Website',
-    'version': '8.0.0.1.0',
+    'version': '9.0.0.1.0',
     'license': 'AGPL-3',
     'depends': [
         'website_hr',
@@ -40,5 +41,5 @@
         'data/websiste_hr_department_data.xml',
         'views/website_hr_department.xml',
     ],
-    'installable': False,
+    'installable': True,
 }
