@@ -30,7 +30,7 @@
               Serpent Consulting Services Pvt. Ltd.",
     'website': "http://acsone.eu,serpentcs.com",
     'category': 'Website',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'license': 'AGPL-3',
     'depends': [
         'website_hr',
