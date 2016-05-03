@@ -26,8 +26,9 @@
     'summary': """
         Display the structure of your departments and their members.
         """,
-    'author': "ACSONE SA/NV,Odoo Community Association (OCA)\
-              Serpent Consulting Services Pvt. Ltd.",
+    'author': 'ACSONE SA/NV, '
+            'Odoo Community Association (OCA). '
+            'Serpent Consulting Services Pvt. Ltd.',
     'website': "http://acsone.eu,serpentcs.com",
     'category': 'Website',
     'version': '9.0.1.0.0',
